@@ -1,0 +1,18 @@
+
+{
+  "name": {
+    "en": "Milestone Address"
+  },
+  "description": {
+    "en": "adds the specific location where the milestone was realized"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "documentationUrl": {
+    "en": "https://github.com/GobiernoFacil/ocds_milestoneAddress_extension"
+  },
+  "schemas": [
+    "release-schema.json"
+  ]
+}

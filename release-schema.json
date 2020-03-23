@@ -6,7 +6,7 @@
           "title" : "address",
           "description" : "the specific location where the milestone was realized",
           "$ref" : "#/definitions/Address"
-        },
+        }
       }
     }
   }
